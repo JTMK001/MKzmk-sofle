@@ -89,7 +89,7 @@
             >;
 
             sensor-bindings = <&scroll_encoder>;
-            label = "Numbers 2";
+            label = "Num 2";
         };
 
         setting_3 {
