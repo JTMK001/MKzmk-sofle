@@ -59,9 +59,9 @@ layers:
   - $$mdi:keyboard-space$$
   - Layer 1
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - '2'
+  - Layer 2
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - Setting_3
+  - Setting 3
   - {t: '=', s: +}
   - $$mdi:backspace-reverse-outline$$
   Layer 1:
@@ -129,7 +129,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  '2':
+  Layer 2:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -194,7 +194,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  Setting_3:
+  Setting 3:
   - {h: '$$mdi:arrow-up-bold$$', s: '$$mdi:bluetooth-connect$$'}
   - EP TOG
   - OUT USB
