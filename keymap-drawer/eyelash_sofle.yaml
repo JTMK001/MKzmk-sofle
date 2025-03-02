@@ -85,7 +85,7 @@ layers:
   - $$mdi:mouse-right-click-outline$$
   - '&mkp MB4'
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
-  - SNAPSHOT
+  - LANG HANJA
   - PgUp
   - $$mdi:arrow-up-bold$$
   - PgDn
