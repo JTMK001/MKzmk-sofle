@@ -222,7 +222,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - RGB SPI
-  - RGB COLOR HSB(26,63,61)
+  - RGB COLOR HSB(26,75,54)
   - RGB EFF
   - RGB BRI
   - RGB HUI
