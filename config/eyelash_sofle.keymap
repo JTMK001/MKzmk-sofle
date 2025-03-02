@@ -69,7 +69,7 @@
         layer_1 {
             bindings = <
 &kp F12     &kp F1  &kp F2     &kp F3     &kp F4     &kp F5      &mmv MOVE_UP     &kp F6          &kp F7       &kp F8      &kp F9         &kp F10           &kp F11
-&trans      &trans  &mkp LCLK  &mkp MCLK  &mkp RCLK  &mkp MB4    &mmv MOVE_DOWN   &kp C_SNAPSHOT  &kp PAGE_UP  &kp UP      &kp PAGE_DOWN  &kp PRINTSCREEN   &kp BACKSLASH
+&trans      &trans  &mkp LCLK  &mkp MCLK  &mkp RCLK  &mkp MB4    &mmv MOVE_DOWN   &kp LANG_HANJA  &kp PAGE_UP  &kp UP      &kp PAGE_DOWN  &kp PRINTSCREEN   &kp BACKSLASH
 &trans      &trans  &trans     &trans     &trans     &mkp MB5    &mmv MOVE_LEFT   &kp HOME        &kp LEFT     &kp DOWN    &kp RIGHT      &kp LEFT_BRACKET  &kp RIGHT_BRACKET
 &trans      &trans  &trans     &trans     &trans     &trans      &mmv MOVE_RIGHT  &kp END         &kp K_MENU   &kp INSERT  &kp END        &kp K_HELP        &trans
 &kp C_MUTE  &trans  &trans     &trans     &trans     &trans      &mkp LCLK        &trans          &trans       &trans      &trans         &trans
