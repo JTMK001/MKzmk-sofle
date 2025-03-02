@@ -2,6 +2,8 @@
 - [English](README_EN.md)
 
 # 更新列表
+- 2025/03/02
+  1.MK customised eyelash firmware
 
 - 2024/12/21
   1. 增加zmk-studio支持（只需要刷新左手即可使用）。
