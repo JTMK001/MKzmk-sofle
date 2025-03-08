@@ -3,6 +3,8 @@
 
 # Update List
 
+- 2025/03/09
+   MK modified keymap. 
 - 2024/12/21
   1. Added support for zmk-studio (just refresh the left hand to use).
 - 2024/10/24
@@ -19,5 +21,5 @@ For 3D printed model files or any issues and malfunctions with the keyboard, ple
 # Sofle Keymap
 
 
-<img src="keymap-drawer/sofle.svg" >
+<img src="keymap-drawer/eyelash_sofle.svg" >
 
